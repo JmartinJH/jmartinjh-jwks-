@@ -8,13 +8,5 @@
       "use": "sig",
       "alg": "RS256"
     }
-    {
-      "kty": "RSA",
-      "n": "sC2igaLG678DRdaNF3TzAQVyQMNWAovPY-F-fEFIpMULSRlfKYvrzxpSbZ7CukV1FaoTF_Teu7ChOfk1bqk5rq5FZB_4bGrvvKAVd2YHeL80_kPmelP0Y6lbbUDub81ZjM2NfqDBetKo_n73vFLW2AXiVpgH9Jz9XsGZfbkCkspcxbNjsIoLW6vAX1knlzHz7Cb4bAoHQpxkk25jmKg7fdriZCfBEOZ-0GAciZvYIxalD5A4htlBiyKtJ8UKVe6FgZp71Gr04W47TVMpLFxgSXDb7QkKGKoj6AKXho7gfuPimnsro0nzshLC31KjrxSXIHEGFi7Z1MTqDp4Amq6f_Q",
-      "e": "AQAB",
-      "kid": "Key2",
-      "use": "sig",
-      "alg": "RS256"
-    }
   ]
 }
